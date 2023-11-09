@@ -1,0 +1,14 @@
+# Zara web scraped data 
+
+## About the website
+
+**Zara** is a prominent Spanish clothing and accessories retailer founded in 1975 by Amancio Ortega and Rosalia Mera. The brand was established in the city of Arteixo, in Galicia, Spain, where it still holds its headquarters. Zara operates as a part of the **Inditex Group**, one of the worlds largest fashion retail groups. Inditex went public in May 2001 on the Bolsas y Mercados Españoles, Spains main stock market, under the ticker symbol ITX. At the time of its initial public offering (IPO), it boasted a market cap of €7.2 billion. Heres the link to the [Wikipedia page](https://en.wikipedia.org/wiki/Zara_(retailer)) and [Bloomberg page](https://www.bloomberg.com/profile/company/ITX:SM) of Zara which provides a detailed account of the fashion giants history, operations, and current market standing.
+
+Zaras business model is characterized by a quick response to the fast-paced fashion market. They face stiff competition from brands operating on a similar model such as **H&M**, **Forever 21**, and **Uniqlo**. These brands emphasize speedy production and turnover of new styles, coupled with affordable pricing. [H&M](https://www.hm.com/) follows a fast-fashion model with an emphasis on sustainability, as detailed in this [Wikipedia](https://en.wikipedia.org/wiki/H%26M) and [Bloomberg page](https://www.bloomberg.com/profile/company/HMB:SS). [Forever 21](https://www.forever21.com/us/shop), while no longer as prominent as it once was, also works on the fast-fashion model, as seen on its [Wikipedia](https://en.wikipedia.org/wiki/Forever_21) and [Bloomberg page](https://www.bloomberg.com/profile/company/ART/C:US). [Uniqlo](https://www.uniqlo.com/us/en/home/), meanwhile, produces lower quantities of a wide range of products, as shown on its [Wikipedia](https://en.wikipedia.org/wiki/Uniqlo) and [Bloomberg page](https://www.bloomberg.com/profile/company/9983:JP).
+
+Web scraping from the **Zara website** can provide valuable insights that are essential for both market and competition research. It allows for real-time monitoring of pricing trends, discount offers, availability of styles, launching of new collections, and overall catalog changes. This information can be used for comparative pricing, to identify the best time for sales or discounts, to monitor stock availability, and to keep an up-to-date overview of the fashion market trends. Understanding the efficiency of Zaras supply chain through scrapped data can enhance competitive strategies and optimize revenue growth. Web scraping can also facilitate customer sentiment analysis based on product reviews and ratings to identify popular items or areas that need improvement.
+
+
+## Link to **dataset**
+
+[Zara dataset](https://www.databoutique.com/buy-data-list-subset/Zara%20web%20scraped%20data/r/recd0M76vG4CZkx8D)
